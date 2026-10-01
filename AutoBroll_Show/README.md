@@ -10,7 +10,7 @@ animations - every piece placed and trimmed exactly where the voice says it.
 > The source code is private - this page shows what the tool does.
 
 <p align="center">
-  <img src="images/panel.png" alt="Auto B-roll panel" width="480">
+  <img src="Auto Broll/auto broll.png" alt="Auto B-roll panel" width="480">
 </p>
 
 ---

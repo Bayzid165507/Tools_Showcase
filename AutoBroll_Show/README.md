@@ -52,7 +52,7 @@ One panel inside After Effects that does the repetitive part, so the editor can 
 timeline in order, each one starting exactly when its words are spoken.
 
 <p align="center">
-  <img src="images/timeline.png" alt="B-roll clips placed on the After Effects timeline" width="860">
+  <img src="Auto Broll/timeline.png" alt="B-roll clips placed on the After Effects timeline" width="860">
 </p>
 
 ### Text
@@ -67,7 +67,7 @@ timeline in order, each one starting exactly when its words are spoken.
 ### Lines - node board for connecting-line animations
 
 <p align="center">
-  <img src="images/lines-board.png" alt="Lines node board" width="480">
+  <img src="Auto Broll/3.png" alt="Lines node board" width="480">
 </p>
 
 - Select layers and see them on a board over the real comp frame

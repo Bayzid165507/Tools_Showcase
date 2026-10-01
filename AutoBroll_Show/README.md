@@ -125,5 +125,5 @@ About 5,900 lines of code across Python, ExtendScript and PowerShell.
 
 ## Contact
 
-**Bayzid Ahmad** - video editor & motion designer
-Upwork: YOUR-UPWORK-LINK
+**Bayzid Ahmad** - 
+Email: bayzid127058@gmail.com
